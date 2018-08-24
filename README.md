@@ -6,7 +6,7 @@
 
 注意：本仓库**不接受建议**，所有对Yagt项目的意见/建议应放到Yagt代码仓库的issue中。
 
-本仓库仅存访确定需求的规格说明。
+本仓库仅存放确定需求的规格说明。
 
 This is the repo of plannings of Yagt project.
 
